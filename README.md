@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Developer from Pakistan</h3>
 
 
+
 - 🌱 I have acquired proficiency in **Python** and devoted to acquired in many more Languages.
 - 🚀 Setting personal goals to contribute to open-source Python projects, collaborating with developers globally and enhancing coding proficiency.
 
@@ -38,11 +39,7 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazarais&show_icons=true&locale=en&layout=compact" alt="ahmedrazarais" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrazarais&show_icons=true&locale=en" alt="ahmedrazarais" /></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrazaraisl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrazarais&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazarais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
