@@ -3,9 +3,8 @@
 
 
 
-- 🌱 I have acquired proficiency in **Python**,**Mysql**,**Javascript** and devoted to acquired in many more Languages.
+- 🌱 I have acquired proficiency in **Python**, **Mysql**, **Javascript** and devoted to acquired in many more Languages.
 - 🚀 Setting personal goals to contribute to open-source Python projects, collaborating with developers globally and enhancing coding proficiency.
-
 
 📫 How to reach me **razarais28@gmail.com**
 
@@ -18,7 +17,7 @@
   <a href="mailto:razarais28@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/ahmedrazarais" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
   <a href="https://www.facebook.com/profile.php?id=100069629424467&mibextid=ZbWKwL" target="_blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /> </a>
-  <a href="https://leetcode.com/ahmedrazarais/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /> </a>
+  <a href="https://leetcode.com/ahmedrazarais/" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +27,7 @@
   <a href="https://discord.com/users/ahmedraza0209_87718" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord logo" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/ahmedrazarais/" target="_blank">
+  <a href="https://leetcode.com/ahmedrazarais/" target="_blank" style="text-decoration:none;">
     LeetCode
   </a>
 </p>
