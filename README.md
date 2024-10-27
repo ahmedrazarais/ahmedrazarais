@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
-<h3 align="center">A passionate Developer from Pakistan</h3>
+<h3 align="center">A  Full Stack Django Developer from Pakistan</h3>
 
 
 
-- 🌱 I have acquired proficiency in **Python**, **Mysql**, **Javascript** and devoted to acquired in many more Languages.
+- 🌱 I have acquired proficiency in **Python**, **Dango**, **Mysql**, **Javascript** ,**Html,css and Tailwind** and devoted to acquired in many more Languages.
 - 🚀 Setting personal goals to contribute to open-source Python projects, collaborating with developers globally and enhancing coding proficiency.
 
 📫 How to reach me **razarais28@gmail.com**
