@@ -27,9 +27,7 @@
   <a href="https://discord.com/users/ahmedraza0209_87718" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord logo" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/ahmedrazarais/" target="_blank" style="text-decoration:none;">
-    LeetCode
-  </a>
+  <a href="https://leetcode.com/ahmedrazarais/" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  /></a>
 </p>
 
 
