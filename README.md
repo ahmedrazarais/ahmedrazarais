@@ -27,6 +27,10 @@
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-25C2A0?style=flat-square&logo=swagger&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+
 
 ---
 
@@ -37,10 +41,4 @@
 
 ---
 
-## My GitHub Stats
 
-- **Total Stars Earned**: 7
-- **Total Commits**: 429
-- **Total Pull Requests (PRs)**: 0
-- **Total Issues**: 0
-- **Contributed to (last year)**: 0
